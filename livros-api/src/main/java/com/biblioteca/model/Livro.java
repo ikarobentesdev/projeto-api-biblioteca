@@ -1,7 +1,7 @@
 package com.biblioteca.model;
 
 /**
- * Entidade principal: representa um Livro no sistema.
+ * Entidade principal: representa um Livro no sistema, se organiza por IDs.
  */
 public class Livro {
 
